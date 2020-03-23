@@ -1,1 +1,0 @@
-# szaka.github.io
