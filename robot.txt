@@ -1,5 +1,12 @@
 
 
 # Allow crawling of all content
+
+# Group 1
 User-agent: *
-Disallow: /
+Disallow: /assets/
+
+# Group 2
+User-agent: *
+Allow: /
+
