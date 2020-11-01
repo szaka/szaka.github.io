@@ -7,12 +7,12 @@
 
 ##### Current Version 
 
-[x] Added updated about section
-[x] Fixed html code in index file
+	- [x] Added updated about section
+	- [x] Fixed html code in index file
 
 ##### Future Version 
 
-[x] Make website responsive compatible
+	- [x] Make website responsive compatible
 
 
 
