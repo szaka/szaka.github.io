@@ -2,7 +2,7 @@
 
 ### Web Portfolio of Shahid Zaka
 
-![szaka](https://www.dropbox.com/s/pxqg8mj1xdfxopk/szaka.png?dl=0)
+![szaka](https://previews.dropbox.com/p/thumb/AA-Sp83BIEYK5-BnYcvzkc7e0Ya0iloiJVVdp51ONEoAZRrF45NseKqvYURy0xOGjNQesJu1T-Q482QyXHiUZKxTotyaovnX56PagPg8vJxdFthBu0iCxBQpKiGCUUUVMoRFxQiUiSm1Gd5dgk32lcS0TAiUnvcXSmlVYidEkG2kVE2NsfBtZdIzJq5idhiyZGDIodimVpuzNCJovSK4ZxMGHOxFSJY6bZZauXc7b_pYXNL08cuyqGJmpfX25jMdkm9JYJjzcvbPVQzZ9p4SKMcmXEhPYXskuVA4b7LS0zINM3xww5C-IePMLOct_DrtQZNROHAR5d8l8QUOJyXEs0t8SEng-3Vupsr66F10ZUeFcA/p.png?fv_content=true&size_mode=5)
 
 ##### Version 0.6
 
