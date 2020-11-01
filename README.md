@@ -1,3 +1,4 @@
+
 # SZAKA.CO
 
 ### Web Portfolio of Shahid Zaka
@@ -18,3 +19,4 @@
 
 [ ] Added bare bones migration files for Users, Chirps, and Likes
 [ ] Added basic model validations, associations and custom validations for the above tables
+
