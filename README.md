@@ -3,7 +3,7 @@
 
 ### Web Portfolio of Shahid Zaka
 
-![Screenshot of szaka](https://github.com/szaka/szaka.github.io/tree/master/img/szaka.png)
+![Screenshot of szaka](https://raw.githubusercontent.com/szaka/szaka.github.io/master/img/szaka.png)
 
 ##### Current Version 
 
