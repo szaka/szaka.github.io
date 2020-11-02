@@ -13,6 +13,8 @@
 ##### Future Version 
 
 	- [x] Make website responsive compatible
+	- [x] Add more projects
+	- [x] Revise about section
 
 
 
