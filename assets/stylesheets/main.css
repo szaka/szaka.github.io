@@ -314,6 +314,18 @@ p a {
   margin-right: 0;
 }
 
+.footer-nav {
+  text-align: right;
+}
+.footer-nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+.footer-nav li:last-child {
+  margin-right: 0;
+}
+
 /*
   ========================================
   Home
@@ -391,59 +403,25 @@ p a {
 */
 
 @media screen and (max-width: 600px) {
-  header {
-    position: relative;
+
+  .logo {
+    display: none;
   }
-  
-  .primary-header,
-  .container, 
+   nav {
+    float: left;
+    padding: 0px 8px 6px 0px;
+  }
+
   .hero,
-  .lead, 
-  .primary-footer
-  small {
-    float: none;
-    width: auto;
+  .container {
+    padding: 0px 8px 25px 22px;
   }
+
+
+small {
+  display: none;
+  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ } 
+ 
+  
