@@ -397,7 +397,8 @@ p a {
   
   .primary-header,
   .container, 
-  .hero, 
+  .hero,
+  .lead, 
   .primary-footer
   small {
     float: none;
