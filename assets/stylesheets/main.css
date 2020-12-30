@@ -403,6 +403,19 @@ p a {
 */
 
 @media screen and (max-width: 600px) {
+     header {
+    position: relative;
+  }
+  
+  .primary-header,
+  .container, 
+  .hero,
+  .lead, 
+  .primary-footer
+  small {
+    float: none;
+    width: auto;
+  }
 
   .logo {
     display: none;
@@ -422,6 +435,7 @@ small {
   display: none;
   
 }
- } 
+
+}
  
   
