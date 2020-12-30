@@ -384,44 +384,65 @@ p a {
   height: 264px;
 }
 
-/* Extra small devices (phones, 600px and down) 
-@media only screen and (max-width: 600px) {
-  .primary-header {
-    width: 70%;
-  }
+/*
+  ========================================
+  Media Queries
+  ========================================
+*/
 
-
- .logo {
-    width: 50%;
+@media screen and (max-width: 600px) {
+  header {
+    position: relative;
   }
-  .logo h1{
-    font-size: 1.25rem;
+  
+  .primary-header,
+  .container, 
+  .hero, 
+  .primary-footer
+  small {
+    float: none;
+    width: auto;
   }
-   .primary-footer {
-    width: 70%;
-  }
-.nav li {
-  width: 25%;
 }
-   .hero {
-    width: 100%;
-  }
-
-   .hero h2 p{
-    font-size: 1.5rem;
-  }
-} 
 
 
-Small devices (portrait tablets and large phones, 600px and up) 
-@media only screen and (min-width: 600px) {...} 
 
- Medium devices (landscape tablets, 768px and up) 
-@media only screen and (min-width: 768px) {...} 
-Large devices (laptops/desktops, 992px and up) 
-@media only screen and (min-width: 992px) {...} 
 
- Extra large devices (large laptops and desktops, 1200px and up) 
- @media only screen and (min-width: 1200px) {...}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
